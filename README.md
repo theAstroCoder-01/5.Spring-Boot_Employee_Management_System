@@ -15,12 +15,12 @@ to save a new employee in MySQL database to be shown in the List of Employees.
 <ol>
    <li><a href="#classes">Classes</a>
         <ul>
-            <li><a href="#employeemanagementsystemapplication">StudentManagementSystemApplication</a></li>
-            <li><a href="#employee">Student</a></li>
-            <li><a href="#employeecontroller">StudentController</a></li>
-            <li><a href="#employeerepository">StudentRepository</a></li>
-            <li><a href="#employeeservice">StudentService</a></li>
-            <li><a href="#employeeserviceimpl">StudentServiceImpl</a></li>
+            <li><a href="#employeemanagementsystemapplication">EmployeeManagementSystemApplication</a></li>
+            <li><a href="#employee">Employee</a></li>
+            <li><a href="#employeecontroller">EmployeeController</a></li>
+            <li><a href="#employeerepository">EmployeeRepository</a></li>
+            <li><a href="#employeeservice">EmployeeService</a></li>
+            <li><a href="#employeeserviceimpl">EmployeeServiceImpl</a></li>
         </ul>
     </li>
 </ol>
